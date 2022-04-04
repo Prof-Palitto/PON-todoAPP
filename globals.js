@@ -1,0 +1,3 @@
+
+global.todos = {nothingTODO: {txt: "nothing TODO", picURI: 'data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=='}}; //inizialmente non c'e' nulla da fare...
+
